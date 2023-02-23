@@ -5,6 +5,10 @@
 		<name>Flow</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>FlowDefinition</name>
+	</types>
+	<types>
 		<members>Account.AllAccounts</members>
 		<members>Account.MyAccounts</members>
 		<members>Account.NewLastWeek</members>
