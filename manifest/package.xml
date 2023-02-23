@@ -117,7 +117,6 @@
 		<members>SocialPersona.AllSocialPersonas</members>
 		<members>Solution.AllReviewedSolutions</members>
 		<members>Solution.AllUnreviewedSolutions</members>
-		<members>Sticker__c.All</members>
 		<members>Task.CompletedTasks</members>
 		<members>Task.DelegatedTasks</members>
 		<members>Task.OpenTasks</members>
@@ -131,10 +130,6 @@
 		<members>WorkOrder.All_WorkOrders</members>
 		<members>WorkOrder.My_WorkOrders</members>
 		<name>ListView</name>
-	</types>
-	<types>
-		<members>Sticker_Manager</members>
-		<name>PermissionSet</name>
 	</types>
 	<version>55.0</version>
 </Package>
